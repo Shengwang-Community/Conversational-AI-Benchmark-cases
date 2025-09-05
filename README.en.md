@@ -123,7 +123,7 @@ If you use this benchmark in your research or development, please cite:
 @misc{conversational_ai_benchmark,
   title={Conversational AI Benchmark Cases},
   author={Shengwang Community},
-  year={2024},
+  year={2025},
   url={https://github.com/Shengwang-Community/Conversational-AI-Benchmark-cases}
 }
 ```

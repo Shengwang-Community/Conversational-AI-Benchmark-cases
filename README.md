@@ -135,7 +135,7 @@
 @misc{conversational_ai_benchmark,
   title={对话式AI基准测试用例},
   author={声网社区},
-  year={2024},
+  year={2025},
   url={https://github.com/Shengwang-Community/Conversational-AI-Benchmark-cases}
 }
 ```
